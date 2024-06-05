@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: yellow;
+    background-color: greenyellow;
     display: flex;
     flex-direction: column;
     flex-wrap: gap;
